@@ -83,7 +83,6 @@ section{
 .bestnworst{
 	display: inline-block;;
 	box-sizing: border-box;
-	min-width: 320px;
 	margin-bottom: 50px;
 }
 
