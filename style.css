@@ -1,0 +1,103 @@
+
+*{
+	font-family: "Myriad W01_n1", "Myriad W01", "Segoe UI", sans-serif, 微軟正黑體!important;
+}
+
+#top-bar{
+	background-color: #0da7f0;
+	color: white;
+	height:	30px;
+	line-height: 30px;
+	position: fixed;
+	top :0px; left: 0px; right: 0px;
+	z-index: 500;
+}
+
+#skill , #advantage{
+	display: block;
+	padding: 10px;
+}
+
+.linkto{
+	color: #0da7f0;
+	padding: 10px 0px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+	margin: 4px 2px;
+	cursor: pointer;
+ }
+
+p{
+	font-weight: 100;
+	text-decoration: none;
+}
+
+#container_intro{
+	padding: 50px;
+}
+
+.button {
+	  letter-spacing: 4px;
+    border: solid 0.5px;
+    border-color: #0da7f0;
+    color: #0da7f0;
+    padding: 10px 24px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 20px;
+}
+
+section{
+	font-family: "Myriad W01_n1", "Myriad W01", "Segoe UI", sans-serif, 微軟正黑體!important;
+	font-weight: 100;
+	line-height: 28px;
+	padding-top: 5px;
+}
+
+.contain_skill{
+	padding-left: 20px
+}
+
+.intro{
+	max-width: 1280px;
+}
+
+.ex{
+	padding: 10px;
+	margin: 0 auto;
+}
+
+.ex_01{
+	padding-left: 20px;
+	margin-right: 10px;
+	display: inline-block;
+	box-sizing: border-box;
+}
+
+.bestnworst{
+	display: inline-block;;
+	box-sizing: border-box;
+	min-width: 320px;
+	margin-bottom: 50px;
+}
+
+.ex_intro{
+	color: #999999;
+	font-size: 16px;
+	line-height: 24px;
+}
+
+#contain_KV, #container_intro{
+	max-width: 1280px;
+	margin: 0 auto;
+}
+
+footer{
+	height: 100px;
+}
